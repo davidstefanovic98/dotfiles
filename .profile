@@ -5,7 +5,7 @@ export PROFILE_SOURCED=$USER
 
 # Default programs
 export EDITOR="nvim"
-export BROWSER="brave"
+export BROWSER="google-chrome-stable"
 export FILE="thunar"
 export TERMFILE="ranger"
 export READER="zathura"
